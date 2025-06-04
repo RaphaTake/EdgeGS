@@ -55,8 +55,8 @@ Além disso, proporcionou um excelente aprendizado prático sobre sensores, lóg
 
 ## 📽️ Demonstração
 
-▶️ **[Assista à demonstração no YouTube](https://www.youtube.com/)**  
-💻 **[Acesse a simulação no Wokwi]([https://www.tinkercad.com/](https://wokwi.com/projects/432771420012238849))**  
+▶️ **[Assista à demonstração no YouTube](https://youtu.be/ORA-vGHqCmQ)**  
+💻 **[Acesse a simulação no Wokwi](https://wokwi.com/projects/432771420012238849)**  
 📷 **[Imagem do projeto]**
 
 ---
