@@ -1,6 +1,6 @@
 # 🌊 Monitor de Nível do Rio com Alerta Visual e Sonoro
 
-Este projeto foi desenvolvido com o objetivo de **monitorar o nível de um rio de forma simples, eficiente e acessível** utilizando a plataforma Arduino. A proposta é oferecer uma solução de **baixo custo e fácil implementação** para auxiliar na **prevenção de enchentes**, especialmente em regiões vulneráveis. O sistema também pode ser adaptado para outras aplicações, como monitoramento de reservatórios ou controle de irrigação.
+Este projeto foi desenvolvido com o objetivo de **monitorar o nível de um rio de forma simples, eficiente e acessível** utilizando a plataforma Arduino. A proposta é oferecer uma solução de **baixo custo e fácil implementação** para auxiliar na **prevenção de enchentes**, especialmente em regiões vulneráveis. 
 
 ---
 
